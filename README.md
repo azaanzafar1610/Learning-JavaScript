@@ -1,2 +1,2 @@
 # Learning-JavaScript
-Learning/practicing JavaScript by creating small projects
+Learning/practicing vanilla JavaScript by creating small projects
